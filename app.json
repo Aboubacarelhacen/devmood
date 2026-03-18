@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "DevMood",
+    "slug": "devmood",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/placeholder.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/placeholder.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-asset"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/placeholder.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
