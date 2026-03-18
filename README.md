@@ -61,15 +61,16 @@ To get a local version of DevMood running on your machine:
 
 ## 📦 APK Download
 
-*(Add the link to your compiled APK here once deployed)*
-- **[Download the Latest DevMood APK (Placeholder)](#)**
+Download the latest installable Android build here:
+- **[Download DevMood APK](https://expo.dev/artifacts/eas/rj9A9DZg7w9x5TXkDWBpwy.apk)**
+- **Build details:** https://expo.dev/accounts/abou1111/projects/devmood/builds/ccfd25ba-e948-4ea3-b1c6-2943a10f1960
 
 ---
 
 ## 🎥 Demo Video
 
 Here is a brief demonstration of the DevMood application in action:
-- **[Watch the Demo on YouTube (Unlisted Placeholder)](#)**
+- **[Watch the DevMood Demo on YouTube](https://www.youtube.com/shorts/ye5_nKbaVc0)**
 
 ---
 

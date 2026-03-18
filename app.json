@@ -4,10 +4,10 @@
     "slug": "devmood",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/placeholder.png",
+    "icon": "./assets/res.png",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/placeholder.png",
+      "image": "./assets/res.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,13 +21,19 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.aboubacarelhacen.devmood",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/placeholder.png",
+        "foregroundImage": "./assets/res.png",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
       "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8b284fca-eac1-42fc-a4d0-b635a4b22eec"
+      }
     }
   }
 }
